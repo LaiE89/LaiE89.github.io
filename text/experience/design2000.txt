@@ -1,0 +1,3 @@
+At Design 2000, I worked with a small team of 3 to create an ML-powered application that captures couches in an image. Then the app allows users to change the textures of those couches.
+
+I was tasked to train and build the convolution neural network for semantic segmentation and neural style transfer. I also acted as the project manager and led the team in the development process.
