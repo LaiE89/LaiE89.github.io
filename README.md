@@ -1,2 +1,2 @@
 # LaiE89.github.io
-Personal Website
+My personal website. Click [here](https://laie89.github.io/) to view my website.
