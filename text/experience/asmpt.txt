@@ -1,0 +1,10 @@
+At ASMPT, I worked closely with electrical and software engineers to develop and test generic motion platform libraries for semiconductor packaging.
+
+Here is a list of things I did:
+- Spearheaded the development of a needle-less ejector which is used to peel the die off of semiconductors
+- Helped migrate the code base to a more efficient hierachy
+- Single-handedly developed a C# application that converted all legacy motion configuration files to a new format
+- Modified the HOLMES website so all project managers can efficiently search and add engineers from all ASM company databases around the globe
+    - Also created a feature that allows users to create and run tasks and services remotely through the website
+- Programmed the firmware and FPGA of an ILC motor such that it increased the speed of the vortex semiconductor assembly machine by at least 10 times
+    - This is done using a real-time mailbox system which asynchronously sends packets of data recorded by the firmware to the library
