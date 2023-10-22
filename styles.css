@@ -253,13 +253,16 @@
     margin-left: auto;
     margin-right: auto;
     padding-top: 1rem;
-    max-width: 500px;
-    max-height: 500px;
+    max-width: 450px;
+    max-height: 450px;
     /* height: 300px;
     width: 300px; */
     /* border: 1px solid #fff; */
 }
 
+.table__item {
+    vertical-align: top;
+}
 
 @media screen and (max-width: 960px) {
 

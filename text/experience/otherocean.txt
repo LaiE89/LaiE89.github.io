@@ -1,3 +1,3 @@
 At Other Ocean, I collaborated with senior programmers and artists to develop gameplay mechanics for the console games, Night Stalker and MediEvil.
 
-I refactored legacy code written for the original Night Stalker game for PlayStation 3, and worked with an Agile scrum development process to develop efficient code with useful sanity tests at the end of each sprint.
+I refactored legacy code written for the original Night Stalker game for Intellivision, and worked in a fast-paced Agile scrum environment to develop efficient code with useful sanity tests at the end of each sprint.
